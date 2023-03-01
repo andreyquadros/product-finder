@@ -1,7 +1,6 @@
-# untitled3
+# Product-Finder
 
-A new Flutter project.
-
+Project Product Finder in Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
